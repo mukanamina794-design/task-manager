@@ -101,7 +101,17 @@ task-manager/
 
 ## Screenshots
 
-_Add screenshots to `docs/screenshots/` and link here._
+| Login | Task List |
+|-------|-----------|
+| ![Login](docs/screenshots/01-login.png) | ![Tasks](docs/screenshots/03-tasks.png) |
+
+| Board (Kanban) | Dashboard |
+|----------------|-----------|
+| ![Board](docs/screenshots/05-board.png) | ![Dashboard](docs/screenshots/06-dashboard.png) |
+
+| New Task | Register |
+|----------|----------|
+| ![New Task](docs/screenshots/04-new-task.png) | ![Register](docs/screenshots/02-register.png) |
 
 ## Design
 
