@@ -1,5 +1,7 @@
 node_modules/
 backend/data/
+backend/.env
+frontend/dist/
 .env
-dist/
 .DS_Store
+Thumbs.db
