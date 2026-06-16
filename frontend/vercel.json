@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "https://task-manager-api.onrender.com/api/$1" }
+    { "source": "/api/(.*)", "destination": "https://task-manager-api-owcj.onrender.com/api/$1" }
   ]
 }
