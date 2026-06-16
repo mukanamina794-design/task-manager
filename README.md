@@ -2,6 +2,11 @@
 
 A full-stack task management application built with Node.js, Express, React, and SQLite.
 
+**Live demo:** [task-manager-jet-sigma.vercel.app](https://task-manager-jet-sigma.vercel.app)
+**API:** [task-manager-api-owcj.onrender.com](https://task-manager-api-owcj.onrender.com/api/health)
+
+> Note: the backend is on Render's free tier and spins down when idle — the first request after inactivity may take up to ~50 seconds to wake up.
+
 ## Stack
 
 | Layer    | Technology |
